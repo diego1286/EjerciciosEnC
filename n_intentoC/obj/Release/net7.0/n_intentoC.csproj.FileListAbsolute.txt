@@ -1,0 +1,15 @@
+/Users/das/Desktop/n_intentoC/n_intentoC/bin/Release/net7.0/n_intentoC
+/Users/das/Desktop/n_intentoC/n_intentoC/bin/Release/net7.0/n_intentoC.deps.json
+/Users/das/Desktop/n_intentoC/n_intentoC/bin/Release/net7.0/n_intentoC.runtimeconfig.json
+/Users/das/Desktop/n_intentoC/n_intentoC/bin/Release/net7.0/n_intentoC.dll
+/Users/das/Desktop/n_intentoC/n_intentoC/bin/Release/net7.0/n_intentoC.pdb
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.csproj.AssemblyReference.cache
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.AssemblyInfoInputs.cache
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.AssemblyInfo.cs
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.csproj.CoreCompileInputs.cache
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.dll
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/refint/n_intentoC.dll
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.pdb
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/n_intentoC.genruntimeconfig.cache
+/Users/das/Desktop/n_intentoC/n_intentoC/obj/Release/net7.0/ref/n_intentoC.dll

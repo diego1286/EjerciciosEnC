@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D5F14E54-7EDE-46D8-942C-224CD61DF81E}|Default">
+  <MonoDevelop.Ide.ItemProperties.n__intentoC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="n_intentoC/Ejercicio6.cs">
+    <Files>
+      <File FileName="n_intentoC/Program.cs" Line="91" Column="11" />
+      <File FileName="n_intentoC/Ejercicio4.cs" />
+      <File FileName="n_intentoC/Ejercicio3.cs" />
+      <File FileName="n_intentoC/Ejercicio5.cs" />
+      <File FileName="n_intentoC/Ejercicio6.cs" Line="1" Column="1" />
+      <File FileName="n_intentoC/Ejercicio1.cs" Line="13" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="n_intentoC" expanded="True">
+            <Node name="n_intentoC" expanded="True">
+              <Node name="Ejercicio6.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
